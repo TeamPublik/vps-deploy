@@ -11,7 +11,7 @@ sudo apt update && sudo apt upgrade -y && clear
 ## Step 2: Clone the Git Repository
 Clone the Git repository to your local machine. Replace `<repo-link>` with the actual repository link:
 ```sh
-git clone https://TeamPublik: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@github.com/TeamPublik/try-x
+git clone https://TeamPublik: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@github.com/TeamPublik/try-x
 ```
 
 ## Step 3: Install pip for Python 3
